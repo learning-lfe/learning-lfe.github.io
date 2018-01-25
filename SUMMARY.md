@@ -1,3 +1,5 @@
-# Table of content
+# Summary
 
+* [Whet Your Appetite](README.md)
 * [First Chapter](chapter1.md)
+
